@@ -1,4 +1,4 @@
 # hello-world
-learning exploration repository for coursera module Dec 2020
+online learning module
 
 my cat's name is baby
